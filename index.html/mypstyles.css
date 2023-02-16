@@ -1,0 +1,39 @@
+body{
+    background-color: #d0dcea;
+}
+.white-bg{
+      background-color: white;
+      width: 450px;
+      height: 750px;
+      margin: 100px auto 100px auto;
+      border-radius: 20px;
+}
+.qrcode{
+      width: 400px;
+      height: 400px;
+      margin: 25px 20px 20px 25px;
+      border-radius: 15px;   
+}
+.Improve{
+    font-weight: bolder;
+    font-size: 33px;
+    text-align: center;
+    margin: 15px;
+    font-family: 'Crete Round', serif;
+    position: relative;
+    bottom: 10px;
+    font-family: 'Varela Round', sans-serif;
+}
+.scan{
+    font-weight: bolder;
+    font-size: 22px;
+    text-align: center;
+    position: relative; 
+    font-family: 'Noto Sans Khmer', sans-serif;
+    margin: 20px;
+    font-weight: normal;
+    opacity: 0.5;
+    
+}
+
+
